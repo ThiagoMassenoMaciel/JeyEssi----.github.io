@@ -1,0 +1,48 @@
+usei a var name e aconteceu deprecited censurado
+
+pelo fato de eu ja ter feito um objeto com o nome thiago case sensitive
+
+I realize inst possible to show index elements obj from the array using the method strings + interpolando with crase `` like ${array[0]}
+
+Not can be displayed elements from any array using template literals + string
+
+You cannt call a function on a line before it have been declared and initialized instead of the function doesn't anonymous
+
+Ontem 30' 
+hoje 33'
+ontem 40'
+antes 36'
+
+explain a way more playfullness  ingredients   its like parameters  and  cake recipe a function 
+        step by step = block statement  
+        final result = returns a cake 
+
+
+All the functions that haven't return , they are undefined 
+
+  hoisting execute run / acess before to declared and initialized
+      variables
+        var 
+      function 
+        not anonymous
+
+
+
+Idea of project Using Basics of java script square perfect of 1,2,3,4,5,6,7,8,9,10 digits
+button in nav go to direct section with   href =#div-section 
+
+Idea of project : Build a "app"  for choose at the breakfast for my friend and they the same will choose mine , without us know what was choosed both of as .
+----------USING JUST BOOLEAN AND objects looks like the exercices that i made in line 250 at the file Example10.html
+BOTH USERS initiale have um list to choose the breakfast for your friend and what kind of alergic food it is 
+AFTER they estart to try to gues the response by other HUNGRY ? bellyache ?
+
+-------file Example 11
+Idea of project Using Basics of java script square perfect testing what block will execute   
+first scope after expetion if() or second ? it depends the expression returns valure from things Truthy or Falsy
+
+------file Example 11 
+------line 177, 140  switch doesn't returns console.log(calc)
+
+
+capitulo penultimo faltou
+aula do try catch e o resto de 10 minuto - mas também né li 5 paginas do livro de redes   SENTI MT SONO 
